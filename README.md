@@ -1,6 +1,6 @@
 # Exploratory Transcriptomic Analysis of Inflammatory Patterns in Psoriasis-Associated Adipose Tissue
 
-## Overview
+## Project Overview
 
 This project explores a public RNA-seq dataset of cutaneous adipose tissue to examine how transcriptomic patterns differ across healthy control, lesional psoriasis, and non-lesional psoriasis samples. The analysis focuses on sample grouping, exploratory gene expression analysis, dimensionality reduction, and visualisation of inflammatory transcriptomic patterns in psoriasis-associated adipose tissue.
 
